@@ -21,5 +21,5 @@ For linux headers and libraries, install them locally:
 sudo apt-key adv --fetch-keys https://repos.codelite.org/CodeLite.asc
 sudo apt-add-repository 'deb https://repos.codelite.org/wx3.1.4/ubuntu/ focal universe'
 sudo apt-get update
-sudo apt-get install libwxbase3.1-0-unofficial3 libwxbase3.1unofficial3-dev libwxgtk3.1-0-unofficial3 libwxgtk3.1unofficial3-dev wx3.1-headers wx-common
+sudo apt-get install libwxbase3.1-0-unofficial3 libwxbase3.1unofficial3-dev libwxgtk3.1-0-unofficial3 libwxgtk3.1unofficial3-dev libwxgtk3.1-dev wx3.1-headers wx-common
 ```
