@@ -1,4 +1,4 @@
-# wxWidgets, Version 3.1.5
+# wxWidgets, Version 3.2.1
 
 Windows headers, libs and DLLs sourced from:
 https://www.wxwidgets.org/downloads/
