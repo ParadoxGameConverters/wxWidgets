@@ -1,11 +1,11 @@
-# wxWidgets, Version 3.2.1
+# wxWidgets, Version 3.2.10
 
 Windows headers, libs and DLLs sourced from:
 https://www.wxwidgets.org/downloads/
 
 * You need to include wxwidgets.props as a new property sheet in VS (View->Other Windows->Property Manager)
-* In C++ section, add additional include directory: $(ProjectDir)\wxWidgets\3.2.1\include\msvc
-* In Linker general, add additional library directory: $(ProjectDir)\wxWidgets\3.2.1\lib\vc14x_x64_dll
+* In C++ section, add additional include directory: $(ProjectDir)\wxWidgets\3.2.10\include\msvc
+* In Linker general, add additional library directory: $(ProjectDir)\wxWidgets\3.2.10\lib\vc14x_x64_dll
 * Add wxbase32ud_vc14x_x64.dll and wxmsw32ud_core_vc14x_x64.dll to the project and set the to "Copy file" into output directory.
 * In .h files, usually you need:
 ```
